@@ -1,0 +1,11 @@
+--- a/setup.py
++++ b/setup.py
+@@ -3,7 +3,7 @@
+ # For copyright and licensing please refer to COPYING.
+ #
+ # ***** END LICENSE BLOCK *****
+-from setuptools import setup
++from distutils.core import setup
+ import os
+ import platform
+ 
